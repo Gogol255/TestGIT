@@ -11,4 +11,5 @@ while index < len9numbers):
    if numbers[index] %5 == 0;
       sum=sum*numbers[index]
 if sum ==1
-   sum=0      
+   sum=0
+print(sum)      
